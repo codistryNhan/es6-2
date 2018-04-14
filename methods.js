@@ -1,4 +1,6 @@
 // Method Definition
+  //  method shorthand delaration in ES6
+
   // ES5
   let dog = {
     name: "Bob",
